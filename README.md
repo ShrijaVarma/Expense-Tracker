@@ -8,3 +8,4 @@ This is a full-stack **Expense Tracker** application built with the **MERN** sta
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Authentication:** JWT(JSON Web Token), Bcrypt.js
 -  **Dev Tools:** VSCode, Postman, GitHub
+---
