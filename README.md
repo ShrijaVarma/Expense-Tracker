@@ -16,6 +16,7 @@ This is a full-stack **Expense Tracker** application built with the **MERN** sta
 - ✅ Add, delete, and view expenses
 - ✅ Backend validation using Express Validator
 - ✅ Password hashing using Bcrypt
-- ✅ Responsive UI with modern 
+- ✅ Responsive UI with modern design
+- ✅ 
 
 
