@@ -14,6 +14,6 @@ This is a full-stack **Expense Tracker** application built with the **MERN** sta
 - ✅ User Registration & Login (JWT-based)
 - ✅ Protected Routes for authenticated users
 - ✅ Add, delete, and view expenses
-- ✅ Backend validation using 
+- ✅ Backend validation using Express
 
 
