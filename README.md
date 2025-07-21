@@ -10,6 +10,6 @@ This is a full-stack **Expense Tracker** application built with the **MERN** sta
 -  **Dev Tools:** VSCode, Postman, GitHub
   
 ---
-## 🚀 Features
+##  Features
 
 
