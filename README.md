@@ -11,5 +11,6 @@ This is a full-stack **Expense Tracker** application built with the **MERN** sta
   
 ---
 ##  Features
+- ✅ User 
 
 
