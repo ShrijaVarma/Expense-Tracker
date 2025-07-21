@@ -17,6 +17,6 @@ This is a full-stack **Expense Tracker** application built with the **MERN** sta
 - ✅ Backend validation using Express Validator
 - ✅ Password hashing using Bcrypt
 - ✅ Responsive UI with modern design
-- ✅ Error 
+- ✅ Error handling 
 
 
